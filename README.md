@@ -45,8 +45,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License.
-
-## Contact
-
-Developed by Faiz Ansari. For more information, visit our [GitHub repository](https://github.com/faizansari45/SMS-Spam-Detection.git) or contact us at ansarifaiz0905@gmail.com.
+This project is licensed under the MIT Lic
